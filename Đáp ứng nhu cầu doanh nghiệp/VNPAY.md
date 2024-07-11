@@ -2,13 +2,13 @@
 title: Đáp ứng nhu cầu doanh nghiệp
 created: 2024-07-07T14:46
 updated: 2024-07-09T21:31
-theme: simple
+theme: sky
 revealOptions:
   transition: slide
----
   hash: false
   history: false
   slideNumber: false
+---
 
 Đề bài:
 > Ngành hàng nào dùng loa sẽ ra được 500 giao dịch/tháng?
@@ -78,38 +78,46 @@ author:
   image: Ảnh/Trần Thuý Hoà.jpg
 ```
 ---
-Tại sao VNPAY không giải quyết những vấn đề này?
+Điều đó dẫn đến câu hỏi:
+> Tại sao VNPAY không giúp các cửa hàng, doanh nghiệp quản lý được dòng tiền hiệu quả hơn?
 
-(Momo đang triển khai chương trình cho khách hàng làm nhiệm vụ [phân loại các giao dịch chưa phân loại](https://www.momo.vn/tin-tuc/khuyen-mai/lam-nhiem-vu-phan-loai-giao-dich-100-co-qua-0d-6156))
+<small class='fragment'>(Nhìn xem đối thủ đang làm gì: Momo đang cho khách hàng làm nhiệm vụ [phân loại các giao dịch chưa phân loại](https://www.momo.vn/tin-tuc/khuyen-mai/lam-nhiem-vu-phan-loai-giao-dich-100-co-qua-0d-6156))</small>
 
 ---
-Hiện tại trên thị trường, có vẻ như chỉ có duy nhất Trấn Kỳ là có công nghệ lõi có thể làm được điều đó bằng tiếng Việt. 
+Hiện tại trên thị trường, có vẻ như chỉ có duy nhất Trấn Kỳ là có công nghệ lõi có thể tạo hạch toán kế toán bằng tiếng Việt, tự động và chính xác. 
 ![Keep to Fibery](Ảnh\Keep%20to%20Fibery.png)
 
 ---
-Nếu tích hợp được Trấn Kỳ vào Merchant View, thì chủ cửa hàng mỗi khi đi mua nguyên vật liệu (tức là khi họ là khách hàng của một cửa hàng khác) sẽ có thêm động lực để chỉ quẹt mã VNPAY. <span class="fragment">Đây chính là <span class="red">phương thức hữu hiệu nhất</span> để các chủ cửa hàng này tiếp nhận VNPAY và trở thành phương thức thanh toán chính của chủ cửa hàng.
-</span>
----
-# Các hình thức chăm sóc, thu hút sự quan tâm
-----
-## Với cửa hàng chưa có nhiều quan tâm tới việc kiểm soát dòng tiền
-- Giới thiệu công cụ giúp quản lý dòng tiền (sử dụng cấu hình có sẵn) <!-- .element: class="fragment" -->
-- Tổ chức các buổi thảo luận để kết nối, giới thiệu giải pháp cho các nhu cầu khác <!-- .element: class="fragment" -->
-----
-## Với doanh nghiệp có nhu cầu tuỳ chỉnh theo đặc thù cửa hàng
-- Cử người đến hướng dẫn thiết lập cấu hình  <!-- .element: class="fragment" -->
+Nếu tích hợp được Trấn Kỳ vào Merchant View, thì chủ cửa hàng mỗi khi đi mua nguyên vật liệu (tức là khi họ là khách hàng của một cửa hàng khác) sẽ có thêm động lực để chỉ quẹt mã VNPAY. <span class="fragment">Chính các chủ cửa hàng sẽ muốn các cửa hàng khác sử dụng VNPAY. </span><span class="fragment">Đây chính là <span class="red">phương thức hữu hiệu nhất</span> để các chủ cửa hàng này tiếp nhận VNPAY và trở thành phương thức thanh toán chính của chủ cửa hàng.</span>
 
 ---
-> Để có thể thiết kế một giải pháp một cách nhanh chóng và tự tin, ta cần được thử nghiệm ý tưởng mới và kiểm tra giả thiết ngay khi chúng vừa được nghĩ ra
 
-Bret Victor, nhà nghiên cứu về công cụ nghĩ
+## Các hình thức chăm sóc, thu hút sự quan tâm
+- Với cửa hàng chưa có nhiều quan tâm tới việc kiểm soát dòng tiền <!-- .element: class="fragment" -->
+  - Giới thiệu công cụ giúp quản lý dòng tiền (sử dụng cấu hình có sẵn) <!-- .element: class="fragment" -->
+  - Tổ chức các buổi thảo luận để kết nối, giới thiệu giải pháp cho các nhu cầu khác <!-- .element: class="fragment" -->
+- Với doanh nghiệp có nhu cầu tuỳ chỉnh theo đặc thù cửa hàng <!-- .element: class="fragment" -->
+  - Cử người đến hướng dẫn thiết lập cấu hình <!-- .element: class="fragment" -->
 
 ---
-Liên kết tham khảo:
+
+```quote
+quote: Để có thể thiết kế một giải pháp một cách nhanh chóng và tự tin, ta cần được thử nghiệm ý tưởng mới và kiểm tra giả thiết ngay khi chúng vừa được nghĩ ra
+author:
+  name: Bret Victor
+  title: Nhà nghiên cứu về công cụ nghĩ
+  org: Dynamic Land
+  image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9a295812-c966-4ad9-87a0-49519264ada0_1120x600.webp
+```
+
+---
+## Tài liệu
 - Demo Trấn Kỳ
 - Lý do viết Trấn Kỳ
-- Bản đề xuất cho app ghi chép chi tiêu sử dụng Trấn Kỳ
----
-Liên hệ
-Lý Minh Nhật: 0912214006
+- App ghi chép chi tiêu cho người dùng cuối
 
+---
+
+## Liên hệ
+- Lý Minh Nhật: lyminhnhat911@gmail.com
+- Quả Cầu: quacau.thesphere@gmail.com
