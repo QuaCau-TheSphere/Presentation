@@ -1,8 +1,8 @@
-Remove-Item site -Recurse -Force
+Remove-Item docs -Recurse -Force
 node 'D:\Programming\Theo nhu cầu\Slide\reveal-md\bin\reveal-md.js' . `
   --css style.css `
   --preprocessor preprocess.mjs `
-  --static site `
+  --static docs `
   --absolute-url https://slide.quảcầu.cc --featured-slide 1 `
   # --disable-auto-open
 
