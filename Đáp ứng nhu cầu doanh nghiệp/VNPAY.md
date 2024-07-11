@@ -93,10 +93,10 @@ Nếu tích hợp được Trấn Kỳ vào Merchant View, thì chủ cửa hàn
 ---
 
 ## Các hình thức chăm sóc, thu hút sự quan tâm
-- Với cửa hàng chưa có nhiều quan tâm tới việc kiểm soát dòng tiền <!-- .element: class="fragment" -->
+### Với cửa hàng chưa có nhiều quan tâm tới việc kiểm soát dòng tiền <!-- .element: class="fragment" -->
   - Giới thiệu công cụ giúp quản lý dòng tiền (sử dụng cấu hình có sẵn) <!-- .element: class="fragment" -->
   - Tổ chức các buổi thảo luận để kết nối, giới thiệu giải pháp cho các nhu cầu khác <!-- .element: class="fragment" -->
-- Với doanh nghiệp có nhu cầu tuỳ chỉnh theo đặc thù cửa hàng <!-- .element: class="fragment" -->
+### Với doanh nghiệp có nhu cầu tuỳ chỉnh theo đặc thù cửa hàng <!-- .element: class="fragment" -->
   - Cử người đến hướng dẫn thiết lập cấu hình <!-- .element: class="fragment" -->
 
 ---
