@@ -85,7 +85,7 @@ author:
 
 ---
 Hiện tại trên thị trường, có vẻ như chỉ có duy nhất Trấn Kỳ là có công nghệ lõi có thể tạo hạch toán kế toán bằng tiếng Việt, tự động và chính xác. 
-![Keep to Fibery](Ảnh\Keep%20to%20Fibery.png)
+![Keep to Fibery](Ảnh/Keep%20to%20Fibery.png)
 
 ---
 Nếu tích hợp được Trấn Kỳ vào Merchant View, thì chủ cửa hàng mỗi khi đi mua nguyên vật liệu (tức là khi họ là khách hàng của một cửa hàng khác) sẽ có thêm động lực để chỉ quẹt mã VNPAY. <span class="fragment">Chính các chủ cửa hàng sẽ muốn các cửa hàng khác sử dụng VNPAY. </span><span class="fragment">Đây chính là <span class="red">phương thức hữu hiệu nhất</span> để các chủ cửa hàng này tiếp nhận VNPAY và trở thành phương thức thanh toán chính của chủ cửa hàng.</span>

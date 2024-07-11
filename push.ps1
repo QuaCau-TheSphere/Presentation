@@ -1,3 +1,4 @@
+Remove-Item site -Recurse -Force
 node 'D:\Programming\Theo nhu cầu\Slide\reveal-md\bin\reveal-md.js' . `
   --css style.css `
   --preprocessor preprocess.mjs `
