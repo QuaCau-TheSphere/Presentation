@@ -7,6 +7,6 @@ node 'D:\Programming\Theo nhu cầu\Slide\reveal-md\bin\reveal-md.js' . `
   --listing-template template/listing.html `
   # --disable-auto-open
 
-git add . 
+git add .
 git commit -m $args[0]
 git push
