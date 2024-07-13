@@ -1,3 +1,6 @@
 {
-  "title": "Các slide của Quả Cầu"  
+  "title": "Các slide của Quả Cầu",
+  "description": "Tổng hợp các tài liệu giới thiệu sản phẩm của Quả Cầu: slide, booklet, v.v.",
+  "css": "style.css",
+  "preprocessor": "preprocess.mjs"
 }

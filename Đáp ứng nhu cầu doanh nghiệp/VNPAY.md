@@ -1,5 +1,6 @@
 ---
-title: Ngành hàng nào dùng loa sẽ ra được 500 giao dịch/tháng?
+title: Làm sao để đưa VNPAY vào luồng hoạt động của cửa hàng?
+description: "VNPAY cung cấp giải pháp về trung gian thanh toán. Nhưng thanh toán chỉ là một khâu trong vận hành. Cho nên, câu hỏi cần được trả lời là: Làm sao để VNPAY đem lại giá trị cho chủ cửa hàng, không chỉ lúc ở khâu giao dịch mà còn ở những khâu khác? Không chỉ ở cửa hàng mà còn là lúc không ở cửa hàng?" 
 created: 2024-07-07T14:46
 updated: 2024-07-13T21:31
 theme: sky
@@ -92,10 +93,11 @@ Nếu tích hợp được Trấn Kỳ vào Merchant View, thì chủ cửa hàn
 
 ---
 
-## Các hình thức chăm sóc, thu hút sự quan tâm
+### Các hình thức chăm sóc, thu hút sự quan tâm
 Với cửa hàng chưa có nhiều quan tâm tới việc kiểm soát dòng tiền: <!-- .element: class="fragment" -->
   - Giới thiệu công cụ giúp quản lý dòng tiền (sử dụng cấu hình có sẵn) <!-- .element: class="fragment" -->
   - Tổ chức các buổi thảo luận để kết nối, giới thiệu giải pháp cho các nhu cầu khác <!-- .element: class="fragment" -->
+
 Với doanh nghiệp có nhu cầu tuỳ chỉnh theo đặc thù cửa hàng: <!-- .element: class="fragment" -->
   - Cử người đến hướng dẫn thiết lập cấu hình <!-- .element: class="fragment" -->
 
