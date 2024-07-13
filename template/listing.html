@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+
+    <title>{{pageTitle}}</title>
+    <meta name="description" content="{{{description}}}" />
+
+    {{#absoluteUrl}}
+    <meta property="og:title" content="{{{title}}}" />
+    <meta property="og:description" content="{{{description}}}" />
+    <meta property="og:type" content="website" />
+    <meta property="og:image" content="{{{absoluteUrl}}}/{{{ogImage}}}" />
+    <meta property="og:url" content="{{{absoluteUrl}}}/{{{ogUrl}}}" />
+    <meta property="og:type" content="article" />
+
+    <meta itemProp="name" content="{{{title}}}" />
+    <meta itemProp="description" content="{{{description}}}" />
+    {{/absoluteUrl}}
+
+    <link rel="stylesheet" href="{{{themeUrl}}}" id="theme" />
+    
+    <script>
+      (function(w,d,s,l,i)&#123;w[l]=w[l]||[];w[l].push(&#123;'gtm.start': new Date().getTime(),event:'gtm.js'&#125;);var
+      f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+      'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f); &#125;)(window,document,'script','dataLayer','GTM - MWZ4WG7');
+    </script>
+    <noscript>
+      <iframe
+        src="https://www.googletagmanager.com/ns.html?id='GTM - MWZ4WG7'"
+        height="0"
+        width="0"
+        style="display:none;visibility:hidden"
+      >
+      </iframe>
+  </head>
+
+  <body>
+    <ul>
+      {{#files}}
+      <li>
+        <a href="{{filePath}}" title="{{title}}">
+          {{#title}}
+            {{.}} ({{filePath}})
+          {{/title}}
+          {{^title}}
+            {{filePath}}
+          {{/title}}
+        </a>
+      </li>
+      {{/files}}
+    </ul>
+
+    <p>
+      Last update: {{date}}
+    </p>
+  </body>
+</html>

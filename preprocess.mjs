@@ -9,16 +9,16 @@ author:
 
 function htmlTemplateFn({quote, name, title, org, image}){
   const quoteSentences = quote.split('. ')
-  const quoteWithFragmentTags = "<span class='fragment'>" + quoteSentences.join(".</span> <span class='fragment'>") + "</span>" 
+  const fragmentedQuote = "<span class='fragment'>" + quoteSentences.join(".</span> <span class='fragment'>") + "</span>" 
   return `<figure class="quote">
     <div class="col1">
-      <div>❝ ${quoteWithFragmentTags}</div>
+      <div>❝ ${fragmentedQuote}</div>
     </div>
     <div class="author fragment">
-      <img src="${image}">
-      <div class='name' >${name}</div>
-      <div class='title'>${title}</div>
-      <div class='org' >${org}</div>
+      <img src="${image || ''}">
+      <div class='name' >${name || ''}</div>
+      <div class='title'>${title || ''}</div>
+      <div class='org' >${org || ''}</div>
     </div>
   </figure>`
 } 

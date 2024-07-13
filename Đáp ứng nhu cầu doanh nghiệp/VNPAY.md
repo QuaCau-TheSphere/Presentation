@@ -1,7 +1,7 @@
 ---
-title: Đáp ứng nhu cầu doanh nghiệp
+title: Ngành hàng nào dùng loa sẽ ra được 500 giao dịch/tháng?
 created: 2024-07-07T14:46
-updated: 2024-07-09T21:31
+updated: 2024-07-13T21:31
 theme: sky
 revealOptions:
   transition: slide
@@ -81,7 +81,7 @@ author:
 Điều đó dẫn đến câu hỏi:
 > Tại sao VNPAY không giúp các cửa hàng, doanh nghiệp quản lý được dòng tiền hiệu quả hơn?
 
-<small class='fragment'>(Nhìn xem đối thủ đang làm gì: Momo đang cho khách hàng làm nhiệm vụ [phân loại các giao dịch chưa phân loại](https://www.momo.vn/tin-tuc/khuyen-mai/lam-nhiem-vu-phan-loai-giao-dich-100-co-qua-0d-6156))</small>
+<small class='fragment'>(Nhìn xem đối thủ đang làm gì: Momo đang cho trả tiền cho khách hàng [phân loại các giao dịch chưa phân loại](https://www.momo.vn/tin-tuc/khuyen-mai/lam-nhiem-vu-phan-loai-giao-dich-100-co-qua-0d-6156))</small>
 
 ---
 Hiện tại trên thị trường, có vẻ như chỉ có duy nhất Trấn Kỳ là có công nghệ lõi có thể tạo hạch toán kế toán bằng tiếng Việt, tự động và chính xác. 
@@ -93,10 +93,10 @@ Nếu tích hợp được Trấn Kỳ vào Merchant View, thì chủ cửa hàn
 ---
 
 ## Các hình thức chăm sóc, thu hút sự quan tâm
-### Với cửa hàng chưa có nhiều quan tâm tới việc kiểm soát dòng tiền <!-- .element: class="fragment" -->
+Với cửa hàng chưa có nhiều quan tâm tới việc kiểm soát dòng tiền: <!-- .element: class="fragment" -->
   - Giới thiệu công cụ giúp quản lý dòng tiền (sử dụng cấu hình có sẵn) <!-- .element: class="fragment" -->
   - Tổ chức các buổi thảo luận để kết nối, giới thiệu giải pháp cho các nhu cầu khác <!-- .element: class="fragment" -->
-### Với doanh nghiệp có nhu cầu tuỳ chỉnh theo đặc thù cửa hàng <!-- .element: class="fragment" -->
+Với doanh nghiệp có nhu cầu tuỳ chỉnh theo đặc thù cửa hàng: <!-- .element: class="fragment" -->
   - Cử người đến hướng dẫn thiết lập cấu hình <!-- .element: class="fragment" -->
 
 ---
@@ -121,3 +121,4 @@ author:
 ## Liên hệ
 - Lý Minh Nhật: lyminhnhat911@gmail.com
 - Quả Cầu: quacau.thesphere@gmail.com
+- Discord: 
