@@ -1,4 +1,4 @@
-# Usage: 
+# Usage: Phải có tên commit trong arg 
 Remove-Item docs -Recurse -Force
 node 'D:\Programming\Theo nhu cầu\Slide\reveal-md\bin\reveal-md.js' . `
   --absolute-url https://slide.quảcầu.cc --featured-slide 1 `
