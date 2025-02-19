@@ -1,5 +1,6 @@
 ---
 title: Báo cáo đánh giá — Đỗ Hàng Minh Trí
+description: 
 theme: sky
 revealOptions:
   transition: slide
@@ -7,6 +8,7 @@ revealOptions:
   history: false
   slideNumber: false
 ---
+
 # Báo cáo đánh giá
 
 Nhân viên: Đỗ Hàng Minh Trí  
